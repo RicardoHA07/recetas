@@ -25,7 +25,7 @@ val recetasList = listOf(
     Receta("Pizza", R.drawable.pizza, "pizzaView"),
     Receta("Hamburguesa", R.drawable.hamburguesa, "hamburguesaView"),
     Receta("Chocomil", R.drawable.chocomilk, "chocoView"),
-    //Receta("Ensalada", R.drawable.ensalada, "ensaladaView"),
+    // Receta("Ensalada", R.drawable.ensalada, "ensaladaView"),
     //Receta("Postre", R.drawable.postre, "postreView")
 )
 
